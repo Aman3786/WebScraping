@@ -2,7 +2,8 @@
   - Scrapped multiple websites for real world projects as a freelancer. 
   - Feel free to use any of the code.
 
-# Technology Used 
+# Technology Used
+  - Python
   - Selenium 
   - BeautifulSoup 
   - Request 
